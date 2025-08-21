@@ -127,7 +127,7 @@ Host: example.com
 
 ### TCP traceroute :
 
-sudo traceroute -T www.google.com
+sudo traceroute -T icc-cricket.com
 
 ## output
 
@@ -135,7 +135,7 @@ sudo traceroute -T www.google.com
 
 ### UDP traceroute :
 
-sudo traceroute -U www.google.com
+sudo traceroute -U icc-circket.com
 
 ## output
 
