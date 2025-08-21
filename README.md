@@ -103,14 +103,10 @@ Host: example.com
 ### TCP traceroute :
 sudo traceroute -T www.google.com
 ## output
-
-
+<img width="1028" height="773" alt="image" src="https://github.com/user-attachments/assets/8f0da9cb-6908-409f-b1a7-98990d618765" />
 ### UDP traceroute :
 sudo traceroute -U www.google.com
 ## output
-
-
-
-
+<img width="1028" height="773" alt="image" src="https://github.com/user-attachments/assets/89f3a872-2119-4c4d-a139-b94178547738" />
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
