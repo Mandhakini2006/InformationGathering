@@ -74,14 +74,22 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## OUTPUT:
 ### Whois
 <img width="766" height="415" alt="image" src="https://github.com/user-attachments/assets/b1866e8c-3ccd-4ba4-8d38-7dcc8ac67463" />
+
 ### Finding Hosting Company :
+
 get further detail by using ip2location.com website.
+
 ## output
 <img width="786" height="417" alt="image" src="https://github.com/user-attachments/assets/da12434f-2683-4670-8dc2-2af0cf822b9a" />
+
 ### History of the website :
+
 ## output
+
 https://web.archive.org/
+
 <img width="782" height="424" alt="image" src="https://github.com/user-attachments/assets/16a28dad-c656-4079-9e41-382e4e32b141" />
+
 ### ping command :
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/918e8f23-0a65-490a-9aeb-f08625cc3629" />
 ### netcat :
